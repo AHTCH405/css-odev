@@ -1,0 +1,9 @@
+main {
+    text-align: center;
+}
+
+main p {
+    background-color: #858585;
+    padding: 8px;
+    margin: 8px;
+}

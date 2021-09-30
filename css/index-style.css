@@ -1,0 +1,16 @@
+main {
+    text-align: center;
+    padding: 8px;
+}
+
+main hr {
+    margin: 16px;
+}
+
+article {
+    text-align: center;
+}
+
+article li {
+    margin: 8px;
+}

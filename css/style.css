@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 24px;
+}
+
+.container {
+    width: 95%;
+    margin: 8px auto;
+}
+
+li {
+    list-style-position: inside;
+}
+
+header {
+    text-align: center;
+    background-color: #eeecec;
+    padding: 8px;
+}
+
+header h1 {
+    margin: 8px;
+}
+
+header p {
+
+    margin: 8px;
+    padding: 8px;
+}
+
+nav .links{
+    display: flex;
+    justify-content: space-around;
+
+
+    margin: 8px;
+    padding: 16px;
+    background-color: #eeecec;
+}
+
